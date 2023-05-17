@@ -40,10 +40,10 @@
       ],
       "tools": [
         {
-		  "name":"riscv-none-embed-gcc",	
+          "name":"riscv-none-embed-gcc",	
           "version": "8.2.0",
           "systems":
-		  [ 
+          [ 
             {
               "url": "https://codeload.github.com/TianpeiLee/risc-none-embed-gcc/zip/refs/tags/1.0.0",
               "checksum": "SHA-256:63CE6AD7CD1357754A10C1E47EC0B91B0F0DE32F3ED6597D2563B78A788D5806",
@@ -51,21 +51,21 @@
               "archiveFileName": "risc-none-embed-gcc-1.0.0.zip",
               "size": "267710516"
             }
-		  ]
+          ]
         },
         {
-		  "name": "openocd",	
+          "name": "openocd",	
           "version": "1.0.0",
           "systems":
-		  [
+          [
             {
-                    "url": "https://codeload.github.com/TianpeiLee/openocd_for_wch/zip/refs/tags/1.0.0",
-                    "checksum": "SHA-256:878EEFEE4A47DCA3730FB6E2A4E031E828CF5FE3B711FDF48F26F62F377A2DDF",
-                    "host": "i686-mingw32",
-                    "archiveFileName": "openocd_for_wch-1.0.0.zip",
-                    "size": "8909703"
+              "url": "https://codeload.github.com/TianpeiLee/openocd_for_wch/zip/refs/tags/1.0.0",
+              "checksum": "SHA-256:878EEFEE4A47DCA3730FB6E2A4E031E828CF5FE3B711FDF48F26F62F377A2DDF",
+              "host": "i686-mingw32",
+              "archiveFileName": "openocd_for_wch-1.0.0.zip",
+              "size": "8909703"
             }
-		  ]	
+          ]	
         }
       ]
     }
