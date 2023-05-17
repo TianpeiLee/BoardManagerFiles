@@ -1,27 +1,25 @@
 {
   "packages": [
-    {    
+    {
       "name": "WCH",
-      "websiteURL": "https://www.wch.cn",
+      "websiteURL": "https://www.wch.cn/",
       "maintainer": "WCH",
       "email": "tech@wch.cn",
       "help": {
-        "online": "https://www.wch.cn"
+        "online": "https://www.wch.cn/"
       },
       "platforms": [
         {
-          "name": "CH32 MCU based boards",
-          "architecture": "ch32",
+          "name": "CH32 MCU EVT Boards",
+          "architecture": "ch32v",
           "version": "1.0.0",
           "category": "Contributed",
           "url": "https://codeload.github.com/TianpeiLee/Arduino_Core_CH32/zip/refs/tags/1.0.0",
-          "checksum": "SHA-256:8F6A062F510433CE51AB64F89D7F5987967A22D6E333944E7ADA102898FED8BD",
           "archiveFileName": "Arduino_Core_CH32-1.0.0.zip",
+          "checksum": "SHA-256:8F6A062F510433CE51AB64F89D7F5987967A22D6E333944E7ADA102898FED8BD",
           "size": "410706",
           "boards": [
-            {"name": "CH32V10x EVT Board"},
             {"name": "CH32V20x EVT Board"},
-            {"name": "CH32V30x EVT Board"},
             {"name": "CH32V00x EVT Board"}
           ],
           "toolsDependencies": [
@@ -40,34 +38,35 @@
       ],
       "tools": [
         {
-          "name":"riscv-none-embed-gcc",	
+          "name": "riscv-none-embed-gcc",
           "version": "8.2.0",
           "systems":
-          [ 
+          [
             {
-              "url": "https://codeload.github.com/TianpeiLee/risc-none-embed-gcc/zip/refs/tags/1.0.0",
-              "checksum": "SHA-256:63CE6AD7CD1357754A10C1E47EC0B91B0F0DE32F3ED6597D2563B78A788D5806",
               "host": "i686-mingw32",
+              "url": "https://codeload.github.com/TianpeiLee/risc-none-embed-gcc/zip/refs/tags/1.0.0",
               "archiveFileName": "risc-none-embed-gcc-1.0.0.zip",
+              "checksum": "SHA-256:63CE6AD7CD1357754A10C1E47EC0B91B0F0DE32F3ED6597D2563B78A788D5806",
               "size": "267710516"
             }
           ]
         },
         {
-          "name": "openocd",	
+          "name": "openocd",
           "version": "1.0.0",
           "systems":
           [
             {
-              "url": "https://codeload.github.com/TianpeiLee/openocd_for_wch/zip/refs/tags/1.0.0",
-              "checksum": "SHA-256:878EEFEE4A47DCA3730FB6E2A4E031E828CF5FE3B711FDF48F26F62F377A2DDF",
               "host": "i686-mingw32",
+              "url": "https://codeload.github.com/TianpeiLee/openocd_for_wch/zip/refs/tags/1.0.0",
               "archiveFileName": "openocd_for_wch-1.0.0.zip",
+              "checksum": "SHA-256:878EEFEE4A47DCA3730FB6E2A4E031E828CF5FE3B711FDF48F26F62F377A2DDF",
               "size": "8909703"
             }
-          ]	
+          ]
         }
       ]
     }
   ]
 }
+
