@@ -131,7 +131,14 @@
               "archiveFileName": "risc-none-embed-gcc-8.2.0.zip",
               "checksum": "SHA-256:43DF880A1908C873A8B6AB115568C6BEAEEC41DDADEB5202703B6AA9FDE50626",
               "size": "267710516"
-            }
+            },
+			{
+              "host": "x86_64-linux-gnu",
+              "url": "https://codeload.github.com/TianpeiLee/wch_gcc_8_linux/tar.gz/refs/tags/8.2.0",
+              "archiveFileName": "wch_gcc_8_linux-8.2.0.tar.gz",
+              "checksum": "SHA-256:CB30C409D2E5B6A80BBE43494DF16954222E839CFE3F0FC4A93C1CABFD17DDA6",
+              "size": "245422132"				
+			}
           ]
         },
         {
@@ -145,7 +152,14 @@
               "archiveFileName": "openocd_wch-1.0.0.zip",
               "checksum": "SHA-256:F1E54FD7F253CF37E7F4581088FF62DFDFDAB899B9D3182C36426F6146AE0465",
               "size": "9604774"
-            }
+            },
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://codeload.github.com/TianpeiLee/wch_openocd_linux/tar.gz/refs/tags/1.0.0",
+              "archiveFileName": "wch_openocd_linux-1.0.0.tar.gz",
+              "checksum": "SHA-256:18B4014AEAE77443192809C2FAD00A7A5B5DEA24A20221D1F41A519A0F0AE89C",
+              "size": "2097675"
+            }	
           ]
         }
       ]
