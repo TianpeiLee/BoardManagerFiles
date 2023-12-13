@@ -136,8 +136,8 @@
               "host": "x86_64-linux-gnu",
               "url": "https://codeload.github.com/TianpeiLee/wch_gcc_8_linux/tar.gz/refs/tags/8.2.0",
               "archiveFileName": "wch_gcc_8_linux-8.2.0.tar.gz",
-              "checksum": "SHA-256:CB30C409D2E5B6A80BBE43494DF16954222E839CFE3F0FC4A93C1CABFD17DDA6",
-              "size": "245422132"				
+              "checksum": "SHA-256:967FB021E5689FF79A06A71C7E54FB7FACE418D5E9B27EC64F5E56687557A282",
+              "size": "245443061"				
 			}
           ]
         },
@@ -157,8 +157,8 @@
               "host": "x86_64-linux-gnu",
               "url": "https://codeload.github.com/TianpeiLee/wch_openocd_linux/tar.gz/refs/tags/1.0.0",
               "archiveFileName": "wch_openocd_linux-1.0.0.tar.gz",
-              "checksum": "SHA-256:18B4014AEAE77443192809C2FAD00A7A5B5DEA24A20221D1F41A519A0F0AE89C",
-              "size": "2097675"
+              "checksum": "SHA-256:10FA9CF5006C3495AEDCAFD1C3903FA8D75D513536432E1D61B59124442EB4C3",
+              "size": "2097609"
             }	
           ]
         }
