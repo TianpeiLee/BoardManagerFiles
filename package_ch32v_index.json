@@ -115,7 +115,12 @@
               "packager": "WCH",
               "name": "openocd",
               "version": "1.0.0"
-            }
+            },
+            {
+              "packager": "WCH",
+              "name": "beforeinstall",
+              "version": "1.0.0"
+            }			
           ]
         }		
       ],
