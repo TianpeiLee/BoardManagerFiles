@@ -143,7 +143,14 @@
               "archiveFileName": "wch_gcc_8_linux-8.2.0.tar.gz",
               "checksum": "SHA-256:967FB021E5689FF79A06A71C7E54FB7FACE418D5E9B27EC64F5E56687557A282",
               "size": "245443061"				
-			}
+			},
+			{
+              "host": "x86_64-apple-darwin",
+              "url": "https://codeload.github.com/TianpeiLee/wch_gcc_macos/tar.gz/refs/tags/8.2.0",
+              "archiveFileName": "wch_gcc_macos-8.2.0.tar.gz",
+              "checksum": "SHA-256:A5A004507E1047580C89E3648C9DD841ACFEFF04953833B40CCA9C5C48C3484F",
+              "size": "160548362"				
+			}			
           ]
         },
         {
