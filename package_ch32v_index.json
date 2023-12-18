@@ -148,8 +148,8 @@
               "host": "x86_64-apple-darwin",
               "url": "https://codeload.github.com/TianpeiLee/wch_gcc_macos/tar.gz/refs/tags/8.2.0",
               "archiveFileName": "wch_gcc_macos-8.2.0.tar.gz",
-              "checksum": "SHA-256:A5A004507E1047580C89E3648C9DD841ACFEFF04953833B40CCA9C5C48C3484F",
-              "size": "160548362"				
+              "checksum": "SHA-256:E14538AE7B621DE798C2466B338A4174CCE22C9CF12E5C1684C0995931738260",
+              "size": "160591401"				
 			}			
           ]
         },
