@@ -176,8 +176,8 @@
               "host": "x86_64-apple-darwin",
               "url": "https://codeload.github.com/TianpeiLee/wch_openocd_macos/tar.gz/refs/tags/1.0.0",
               "archiveFileName": "wch_openocd_macos-1.0.0.tar.gz",
-              "checksum": "SHA-256:E87A7533FEB0EF136509989888B8D78B403B1AF26CCF6F86EC806128806DA01A",
-              "size": "2043640"
+              "checksum": "SHA-256:100DC6A75E302D5E3FF7548FE64351AA545353982BA22C19D43555F3A748BE0E",
+              "size": "1995618"
             }			
           ]
         },
